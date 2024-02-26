@@ -2,8 +2,9 @@
 
 ## PL
 
-Mod dodający Trimy na narzędzia! Od teraz trimy nie są tylko dla zbroji, są również dla narzędzi takich jak kilof łopata czy siekiera!
-Mod jest Narazie w wersji Pre-Alpha więc nie wszystko jeszcze w nim jest!
+Mod, który dodaje Szablony kowalskie do narzędzi! Od teraz wykończenia są dostępne nie tylko do zbroi, ale również dostępne do twoich ulubionych narzędzi!
+Mod jest obecnie w wersji Pre-Alfa, więc nie wszystko jest jeszcze dostępne!
+Naszym celem jest umożliwić Ci dostosowanie Twoich narzędzi wszystkimi wzorami z Minecraft vanilla od Wybrzeża aż po Iglicę!
 
 **Gra:** Minecraft 
 **Edycja:** Java
