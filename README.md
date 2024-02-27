@@ -1,4 +1,4 @@
-![Logo](https://github.com/MrKazzanek/ToolsTrimConcept/blob/media/minecraft_title_3.png?raw=true)
+![Logo](https://github.com/MrKazzanek/ToolTrimsConcept/blob/media/logo1.png?raw=true)
 
 ## PL
 
